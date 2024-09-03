@@ -1,0 +1,7 @@
+C:\Users\ALEXANDER\source\repos\VerificacionEdad\VerificacionEdad\bin\Debug\VerificacionEdad.exe.config
+C:\Users\ALEXANDER\source\repos\VerificacionEdad\VerificacionEdad\bin\Debug\VerificacionEdad.exe
+C:\Users\ALEXANDER\source\repos\VerificacionEdad\VerificacionEdad\bin\Debug\VerificacionEdad.pdb
+C:\Users\ALEXANDER\source\repos\VerificacionEdad\VerificacionEdad\obj\Debug\VerificacionEdad.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\source\repos\VerificacionEdad\VerificacionEdad\obj\Debug\VerificacionEdad.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\source\repos\VerificacionEdad\VerificacionEdad\obj\Debug\VerificacionEdad.exe
+C:\Users\ALEXANDER\source\repos\VerificacionEdad\VerificacionEdad\obj\Debug\VerificacionEdad.pdb
